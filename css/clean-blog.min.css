@@ -22,7 +22,16 @@ h2::first-letter{
     color:rgb(39, 39, 243);
 }
 
-
+@media screen and (max-width: 380px) {
+ .photo {
+        background: transparent url(https://renocardano.github.io/AdaMinerPool/img/ada5.png) no-repeat;
+    }
+}
+@media screen and (min-width: 381px) {
+ .photo{
+        background: transparent url(https://renocardano.github.io/AdaMinerPool/img/ada5.png) no-repeat;
+    }
+}
 header.masthead{margin-bottom:50px;background:no-repeat center center;background-color:black ;background-attachment:scroll;position:relative;background-size:cover}
 
 header.masthead .page-heading,header.masthead .post-heading,header.masthead
