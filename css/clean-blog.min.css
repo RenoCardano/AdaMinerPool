@@ -1,7 +1,4 @@
-/*!
- * Start Bootstrap - Clean Blog v5.0.10 (https://startbootstrap.com/theme/clean-blog)
- * Copyright 2013-2020 Start Bootstrap
- * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-clean-blog/blob/master/LICENSE)
+
  */body{font-size:20px;color:#212529;font-family:Lora,'Times New Roman',serif}p{line-height:1.5;margin:30px 0}p a{text-decoration:underline}
  .em:first-letter {
      color: #00657b;
@@ -9,16 +6,17 @@
 
  .container{
 align-items: center;
-text-align: center;
+text-align: justify;
 padding: 0 16px 0;
 max-width: 100vw;
  }
 
 h1{
     color:rgb(39, 39, 243);
+ align-items: justify;
 }
 
-h2::first-letter{
+h2:{
     color:rgb(39, 39, 243);
 }
 
